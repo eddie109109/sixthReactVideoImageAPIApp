@@ -3,7 +3,7 @@ import React from 'react';
 function Heading() {
   return (
     <div className="headingWrapper">
-    <h1>Welcome to Eddie's Image API App</h1>
+    <h1>Welcome to Eddie's Video/Image API App</h1>
     </div>
   );
 }
