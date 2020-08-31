@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sixthReactVideoImageAPIApp/static/js/main.ee73851d.chunk.js",
+    "main.js.map": "/sixthReactVideoImageAPIApp/static/js/main.ee73851d.chunk.js.map",
+    "runtime-main.js": "/sixthReactVideoImageAPIApp/static/js/runtime-main.267431ad.js",
+    "runtime-main.js.map": "/sixthReactVideoImageAPIApp/static/js/runtime-main.267431ad.js.map",
+    "static/js/2.c3ae9fb3.chunk.js": "/sixthReactVideoImageAPIApp/static/js/2.c3ae9fb3.chunk.js",
+    "static/js/2.c3ae9fb3.chunk.js.map": "/sixthReactVideoImageAPIApp/static/js/2.c3ae9fb3.chunk.js.map",
+    "index.html": "/sixthReactVideoImageAPIApp/index.html",
+    "precache-manifest.393e531eb3688dabb0b0af3e4a89eda1.js": "/sixthReactVideoImageAPIApp/precache-manifest.393e531eb3688dabb0b0af3e4a89eda1.js",
+    "service-worker.js": "/sixthReactVideoImageAPIApp/service-worker.js",
+    "static/js/2.c3ae9fb3.chunk.js.LICENSE.txt": "/sixthReactVideoImageAPIApp/static/js/2.c3ae9fb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.267431ad.js",
+    "static/js/2.c3ae9fb3.chunk.js",
+    "static/js/main.ee73851d.chunk.js"
+  ]
+}
