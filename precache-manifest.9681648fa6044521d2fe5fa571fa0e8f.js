@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de3d2c538317949a24bcda48f21bcebb",
+    "revision": "cbdee90c42cea3e0d4b669e9f41f6820",
     "url": "/sixthReactVideoImageAPIApp/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sixthReactVideoImageAPIApp/static/js/2.c3ae9fb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2613462e15ea5369c56d",
-    "url": "/sixthReactVideoImageAPIApp/static/js/main.ee73851d.chunk.js"
+    "revision": "f4911f94dc77a3e7d51f",
+    "url": "/sixthReactVideoImageAPIApp/static/js/main.73442d8b.chunk.js"
   },
   {
     "revision": "c5cd024dd5bccfa76ec7",
